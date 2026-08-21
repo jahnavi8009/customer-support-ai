@@ -1,0 +1,192 @@
+[ACCOUNT ACCESS]
+
+TITLE: Password Reset
+
+If a customer forgets their password, they can select
+"Forgot Password" on the CloudDesk login page.
+
+A password reset link will be sent to the email address
+registered with the account.
+
+The reset link expires after 30 minutes.
+
+If the customer does not receive the email, they should
+check their spam or junk folder. If the email is still
+missing, the issue should be escalated to support.
+
+KEYWORDS:
+password reset, forgot password, reset password,
+can't remember password, login password
+
+
+[TASK]
+
+TITLE: Account Locked
+
+An account may be temporarily locked after multiple
+unsuccessful login attempts.
+
+The customer should wait 15 minutes and try again.
+
+If the account remains locked after 15 minutes, support
+should verify the customer's identity before unlocking
+the account.
+
+KEYWORDS:
+account locked, locked account, login locked,
+too many login attempts
+
+
+[ACCOUNT ACCESS]
+
+TITLE: Multi-Factor Authentication
+
+Customers can enable MFA from:
+
+Settings → Security → Multi-Factor Authentication.
+
+CloudDesk supports authenticator-app based MFA.
+
+If a customer loses access to their authenticator device,
+the issue must be escalated to support after identity
+verification.
+
+KEYWORDS:
+MFA, multi factor authentication, two factor authentication,
+2FA, authenticator, verification code
+
+
+[BILLING]
+
+TITLE: Duplicate Charge
+
+If a customer believes they were charged twice, they
+should provide the invoice number and transaction date.
+
+Support should verify whether the two transactions are
+actually separate charges or one authorization and one
+completed payment.
+
+If a genuine duplicate charge is confirmed, the billing
+team should process the appropriate refund.
+
+KEYWORDS:
+charged twice, charged two times, double charge,
+duplicate payment, paid twice, payment duplicated
+
+
+[BILLING]
+
+TITLE: Subscription Cancellation
+
+Customers can cancel their subscription from:
+
+Settings → Billing → Cancel Subscription.
+
+Cancellation stops the next renewal but does not
+automatically refund the current billing period.
+
+Refund requests must be reviewed by the billing team.
+
+KEYWORDS:
+cancel subscription, cancel plan, stop subscription,
+unsubscribe, cancellation
+
+
+[BILLING]
+
+TITLE: Payment Methods
+
+Customers can update their payment method from:
+
+Settings → Billing → Payment Methods.
+
+Supported payment methods depend on the customer's
+subscription and billing region.
+
+KEYWORDS:
+payment method, change card, update card,
+credit card, debit card, payment details
+
+
+[TECHNICAL]
+
+TITLE: Application Not Loading
+
+If CloudDesk is not loading, the customer should first:
+
+1. Refresh the browser.
+2. Clear the browser cache.
+3. Try an updated version of Chrome, Edge, or Firefox.
+4. Check whether other websites are loading normally.
+
+If the problem continues, the customer should provide
+the browser name, operating system, and approximate time
+when the issue occurred.
+
+KEYWORDS:
+application not loading, app not loading, website not loading,
+doesn't load, won't load, app not opening, application stuck
+
+
+[TECHNICAL]
+
+TITLE: API Errors
+
+CloudDesk API requests may return errors when the
+authentication token is invalid or expired.
+
+Customers should verify that the API token is active
+and correctly configured.
+
+If the token is valid and API requests continue to fail,
+the issue should be escalated to technical support with
+the API endpoint, HTTP status code, and timestamp.
+
+KEYWORDS:
+API error, API errors, API not working,
+API request failed, HTTP error, authentication token
+
+
+[TECHNICAL]
+
+TITLE: Integration Problems
+
+If a third-party integration stops working, the customer
+should verify that the integration is enabled and that
+its authentication credentials have not expired.
+
+If the integration remains unavailable, technical support
+should investigate the integration logs.
+
+KEYWORDS:
+integration not working, integration problem,
+third party integration, connection problem,
+integration stopped working
+
+
+[SUPPORTED CATEGORIES]
+
+CloudDesk Tier-1 support currently handles:
+
+1. Billing
+2. Technical Support
+3. Account Access
+
+Questions outside these areas may be escalated to a
+human support representative.
+
+
+[ESCALATION POLICY]
+
+A support request should be escalated when:
+
+1. The question is outside the supported categories.
+2. The knowledge base does not contain enough information
+   to answer confidently.
+3. The customer reports a potentially serious account,
+   security, or payment issue requiring human verification.
+4. The customer explicitly requests human assistance.
+
+When escalating, the assistant should clearly explain
+why the request was escalated.
